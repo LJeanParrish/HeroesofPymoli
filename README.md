@@ -1,6 +1,6 @@
 # Heroes of Pymoli Project
 
-![Fantasy.png](HeroesofPymoli/Images/Fantasy.png)
+![Fantasy](Images/Fantasy.png)
 
 ## Background
 
@@ -46,13 +46,10 @@ The 5 most popular item add-ons by purchase count were then identified and liste
 
 Finally, the 5 most profitable items by total purchase value were identified and listed in a table.  
 
-## [HereosOfPymoli.ipynb](HeroesOfPymoli/HeroesOfPymoli/HeroesOfPymoli.ipynb)
-
 
 ### Conclusion
 Once completed, I then created a list of three observable trends based on the Heroes of Pymoli data. 
 
-## [HereosOfPymoli_TrendAnalysis.doc](HeroesOfPymoli/HereosOfPymoli_TrendAnalysis.doc)
 
 ### Contact
 Lauren Parrish
